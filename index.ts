@@ -1,5 +1,5 @@
 class  B{
-
+// 我日
 }
 // 工厂类
 class Zc{
